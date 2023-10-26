@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gitee.com/my-shine/gridea</id>
+    <id>https://way-shine.github.io</id>
     <title>Gridea</title>
-    <updated>2023-10-15T14:52:59.392Z</updated>
+    <updated>2023-10-26T13:51:07.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gitee.com/my-shine/gridea"/>
-    <link rel="self" href="https://gitee.com/my-shine/gridea/atom.xml"/>
+    <link rel="alternate" href="https://way-shine.github.io"/>
+    <link rel="self" href="https://way-shine.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://gitee.com/my-shine/gridea/images/avatar.png</logo>
-    <icon>https://gitee.com/my-shine/gridea/favicon.ico</icon>
+    <logo>https://way-shine.github.io/images/avatar.png</logo>
+    <icon>https://way-shine.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gitee.com/my-shine/gridea/post/hello-gridea/</id>
-        <link href="https://gitee.com/my-shine/gridea/post/hello-gridea/">
+        <id>https://way-shine.github.io/post/hello-gridea/</id>
+        <link href="https://way-shine.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
